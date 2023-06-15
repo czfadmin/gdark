@@ -1,0 +1,33 @@
+{
+  "name": "gdark",
+  "displayName": "GDark",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "author": "czfadmin",
+  "publisher": "czfadmin",
+  "contributes": {
+    "themes": [
+      {
+        "label": "GDark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark.json"
+      },
+      {
+        "label": "GLight",
+        "uiTheme": "vs",
+        "path": "./themes/light.json"
+      },
+      {
+        "label": "GDark Mix",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark-mix.json"
+      }
+    ]
+  }
+}
