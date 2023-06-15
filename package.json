@@ -9,6 +9,13 @@
   "categories": [
     "Themes"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/czfadmin/gdark"
+  },
+  "bugs": {
+    "url": "https://github.com/czfadmin/gdark/issues"
+  },
   "author": "czfadmin",
   "publisher": "czfadmin",
   "contributes": {
